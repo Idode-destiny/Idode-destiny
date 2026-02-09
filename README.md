@@ -60,7 +60,7 @@ I design systems so the *wrong things are impossible*, not just discouraged.
 
 ## Organization
 
-**Owner — Aegis Systems Architecture**  
+**Owner - Aegis Systems Architecture**  
 System architecture for AI-enabled administrative platforms.
 
 ---
