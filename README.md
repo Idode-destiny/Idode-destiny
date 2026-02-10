@@ -1,8 +1,8 @@
 # IDODE DESTINY
 
-**AI Systems Architect | Agentic AI & Governance-Driven Platforms**
+**AI Systems Architect | Technical Project Manager**
 
-I design and build AI-enabled systems where authority is explicit, failure is visible, and decisions remain explainable. My work sits at the intersection of AI engineering, system architecture, and governed execution, with focus on building intelligent platforms that are safe, auditable, and operational in the real world.
+I design and design AI-enabled systems where authority is explicit, failure is visible, and decisions remain explainable. My work sits at the intersection of AI engineering, system architecture, and governed execution, with focus on designing intelligent platforms that are safe, auditable, and operational in the real world.
 
 I specialize in architecting systems that do not collapse under uncertainty, where AI supports decisions but does not silently control outcomes, and where every action is traceable end to end.
 
@@ -12,9 +12,9 @@ I specialize in architecting systems that do not collapse under uncertainty, whe
 
 - Architect end-to-end intelligent systems using C4 architecture and domain modeling
 - Design agentic and AI-assisted platforms with clear authority boundaries
-- Build RAG, agentic memory, and knowledge-driven systems for real-world execution
+- design RAG, agentic memory, and knowledge-driven systems for real-world execution
 - Model data ownership, invariants, and system failure domains before implementation
-- Translate complex architecture into modular structures teams can build independently
+- Translate complex architecture into modular structures teams can design independently
 - Design decision-centric interfaces that reduce operational and governance risk
 - Ensure systems remain functional even when AI components degrade or fail
 
@@ -121,12 +121,5 @@ Each tool selection is justified by system context. TypeScript for type-safe ful
 ---
 
 ## CONTACT
-
-I am currently open to the right opportunities:
-
-- Full-time roles in governed AI systems
-- Projects involving AI architecture and agentic systems
-- Internal tools, admin platforms, and high-stakes implementations
-- Contract work for RAG and multi-agent platforms
 
 [ LinkedIn ](https://www.linkedin.com/in/idode-destiny/)  |  [ Email ](mailto:smtg190@gmail.com)  |  [ GitHub ](https://github.com/Idode-destiny)
