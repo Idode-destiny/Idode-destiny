@@ -79,7 +79,8 @@ Designing governed, traceable, AI-enabled execution platforms.
 
 ## BACKGROUND
 
-- **MSc Management** – Strategic Marketing & Entrepreneurship
+- **MSc Management**
+-   - Strategic Marketing & Entrepreneurship
   - Analytics for Operations & Logistics
   - Strategic Leadership & HR Management
   - Financial Data Analysis for Decision-Making
