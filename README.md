@@ -1,6 +1,6 @@
 # IDODE DESTINY
 
-**AI Systems Architect | Technical Project Manager**
+**AI Systems Architect | Agentic AI & Governance-Driven Platforms**
 
 I design and build AI-enabled systems where authority is explicit, failure is visible, and decisions remain explainable. My work sits at the intersection of AI engineering, system architecture, and governed execution, with focus on building intelligent platforms that are safe, auditable, and operational in the real world.
 
@@ -83,43 +83,11 @@ A controlled AI-assisted administrative system designed for high-risk environmen
 Persistent AI memory architecture enabling context continuity and autonomous reasoning.
 
 **Enterprise RAG Platform**  
-Scalable retrieval system designed for large document intelligence and high accuracy reasoning.
+Semantic retrieval system with document processing, vector storage, and knowledge querying.
 
-**Knowledge Graph Intelligence**  
-Semantic data graph connecting large entity networks with advanced query and reasoning capability.
+**Internal Admin Automation Tools**  Operational system for administrative workflows, data collection, and decision support.
 
-**Automation and Data Pipelines**  
-Robust ETL and execution systems designed for reliability, monitoring, and failure handling.
-
-**PACE AI Execution System**  
-AI-driven lead qualification and workflow automation platform integrating voice AI and operational systems.
-
----
-
-## HOW I THINK ABOUT SYSTEMS
-
-- No single component should hold end-to-end authority
-- Systems must explain themselves when something fails
-- AI must surface uncertainty, not hide it
-- Decision surfaces are more important than control panels
-- Systems must degrade gracefully, not collapse
-- The wrong actions should be impossible, not merely discouraged
-
----
-
-## ORGANIZATION
-
-**Aegis Systems Architecture**  
-Focused on designing governed, traceable, and AI-enabled execution platforms.
-
----
-
-## BACKGROUND
-
-- MSc Management
-- Higher National Diploma in Electrical and Electronics Engineering
-- AI Engineering and Product certifications (IBM and others)
-- Deep focus on system design, agentic AI, and governed execution
+**Team Collaboration Platform**   Context-aware systems for internal coordination, task tracking, and information discovery.
 
 ---
 
@@ -135,7 +103,24 @@ I work best in environments involving:
 
 ---
 
+## WORKING APPROACH
+
+I focus on the entire system, not just the code. I model data, authority, failure, and business value before building, and I design systems that remain stable under uncertainty.
+
+**I work with:**
+- Architects needing help designing intelligent systems
+- Founders building AI-driven products from the ground up
+- Teams transitioning to AI and needing clear handover and structure
+
+I have a bias toward simple systems, explicit design decisions, and architecture that can be understood, implemented, andmaintained by everyone.
+
+I do not design systems that trade reliability for speed or convenience.
+
+---
+
 ## CONTACT
 
-**LinkedIn:** [linkedin.com/in/idode-destiny](https://linkedin.com/in/idode-destiny)  
-**Email:** destinyidode@hotmail.com
+Feel free to reach out if you are building AI platforms, governance-driven systems, or enterprise tools.
+
+✇ [idodedestiny@gmail.com](mailto:idodedestiny@gmail.com) 
+┇ [LinkedIn](https://www.linkedin.com/in/idode-destiny/)
