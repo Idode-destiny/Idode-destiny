@@ -1,6 +1,6 @@
 # IDODE DESTINY
 
-**AI Systems Architect | Agentic AI & Governance-Driven Platforms**
+**AI Systems Architect | Technical Project Manager**
 
 I design and build AI-enabled systems where authority is explicit, failure is visible, and decisions remain explainable. My work sits at the intersection of AI engineering, system architecture, and governed execution, with focus on building intelligent platforms that are safe, auditable, and operational in the real world.
 
