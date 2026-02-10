@@ -123,7 +123,7 @@ Focused on designing governed, traceable, and AI-enabled execution platforms.
 
 ---
 
-## POSITIONING
+## PREFERRED PROBLEM DOMAINS
 
 I work best in environments involving:
 
