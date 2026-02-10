@@ -83,11 +83,12 @@ A controlled AI-assisted administrative system designed for high-risk environmen
 Persistent AI memory architecture enabling context continuity and autonomous reasoning.
 
 **Enterprise RAG Platform**  
-Semantic retrieval system with document processing, vector storage, and knowledge querying.
+Semantic search and knowledge retrieval for production AI services.
 
-**Internal Admin Automation Tools**  Operational system for administrative workflows, data collection, and decision support.
+**Authority Layer Framework**  Authentication and decision gating system for governed AI execution.
 
-**Team Collaboration Platform**   Context-aware systems for internal coordination, task tracking, and information discovery.
+**Internal Admin Platform**  
+Decision-centric internal tools for high-stakes administration.
 
 ---
 
@@ -103,24 +104,29 @@ I work best in environments involving:
 
 ---
 
-## WORKING APPROACH
+## TECHNOLOGY PREFERENCES
 
-I focus on the entire system, not just the code. I model data, authority, failure, and business value before building, and I design systems that remain stable under uncertainty.
+**Primary tools for production AI systems:**
 
-**I work with:**
-- Architects needing help designing intelligent systems
-- Founders building AI-driven products from the ground up
-- Teams transitioning to AI and needing clear handover and structure
+- Languages: TypeScript/Node.js, Python
+- Agentic AI: OpenAI, Anthropic, LangChain, CrewAI
+- Data: PostgreSQL, Pinecone, Prisma
+- Infrastructure: Docker, Vercel, GitHub Actions
+- Frontend: React, Next.js, Tailwind CSS
 
-I have a bias toward simple systems, explicit design decisions, and architecture that can be understood, implemented, andmaintained by everyone.
+My decisions are driven by safety, auditability, clarity, and operational stability. I choose technologies that do not degrade under scale, deploy predictably, and produce traceable output.
 
-I do not design systems that trade reliability for speed or convenience.
+Each tool selection is justified by system context. TypeScript for type-safe full stack development, PostgreSQL for acid-transactional data storage, Anthropic for governed-AI workflows, and Prisma for schema-first data layers that prevent runtime failure.
 
 ---
 
 ## CONTACT
 
-Feel free to reach out if you are building AI platforms, governance-driven systems, or enterprise tools.
+I am currently open to the right opportunities:
 
-✇ [idodedestiny@gmail.com](mailto:idodedestiny@gmail.com) 
-┇ [LinkedIn](https://www.linkedin.com/in/idode-destiny/)
+- Full-time roles in governed AI systems
+- Projects involving AI architecture and agentic systems
+- Internal tools, admin platforms, and high-stakes implementations
+- Contract work for RAG and multi-agent platforms
+
+[ LinkedIn ](https://www.linkedin.com/in/idode-destiny/)  |  [ Email ](mailto:smtg190@gmail.com)  |  [ GitHub ](https://github.com/Idode-destiny)
