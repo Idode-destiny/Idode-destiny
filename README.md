@@ -80,11 +80,11 @@ Designing governed, traceable, AI-enabled execution platforms.
 ## BACKGROUND
 
 - **MSc Management**
--   - Strategic Marketing & Entrepreneurship
-  - Analytics for Operations & Logistics
-  - Strategic Leadership & HR Management
-  - Financial Data Analysis for Decision-Making
-  - Research Skills for Management Decisions
+    - Strategic Marketing & Entrepreneurship
+    - Analytics for Operations & Logistics
+    - Strategic Leadership & HR Management
+    - Financial Data Analysis for Decision-Making
+    - Research Skills for Management Decisions
 - **Higher National Diploma in Electrical & Electronics Engineering**
 - **AI Engineering and AI Product certifications** (IBM and others).
 
