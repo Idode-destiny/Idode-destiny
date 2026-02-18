@@ -1,5 +1,5 @@
 # IDODE DESTINY
-**AI Product Manager & Systems Architect**
+**AI System Architect | Technical Project Manager | Product Manager**
 
 I design and lead AI-enabled systems that operate safely, transparently, and at scale, where authority is explicit, failure is visible, and decisions remain explainable. My work sits at the intersection of system architecture, product management, and business strategy, with a focus on intelligent platforms that are governable, auditable, and aligned with real-world constraints. With a background in Management and Engineering, I translate complex AI capabilities into decision-safe systems that organizations can trust, operate, and grow over time.
 
